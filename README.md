@@ -1,6 +1,4 @@
 # Urban_Shrinkage_ABM_Housing_Market
-Using Agent-Based Model to Explore Urban Shrinkage Througn the Lens of Housing Market
-
 ![In a single picture](https://raw.githubusercontent.com/njiang8/Urban_Shrinkage_ABM_Housing_Market/master/paper_cut.jpeg)
 
 
